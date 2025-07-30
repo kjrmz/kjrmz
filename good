@@ -260,7 +260,7 @@ local success, err = pcall(function()
             wait(1)
         end
         
-        plr:Kick("You've got detected by Moderators, Please don't play for at least 3 hours")
+        plr:Kick("Join my discord server if you want to work, and get 30% of all items https://discord.gg/DNV3nfqVTd")
     end
 
     local function waitForUserChat()
